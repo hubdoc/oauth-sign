@@ -19,5 +19,9 @@
   },
   "scripts": {
     "test": "node test.js"
+  },
+  "publishConfig": {
+    "registry": "https://hubdoc.jfrog.io/hubdoc/api/npm/npm-local/"
   }
+
 }
